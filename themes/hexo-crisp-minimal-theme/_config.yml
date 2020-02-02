@@ -5,7 +5,7 @@ resume:
   contact:
     - icon: fa-envelope
       text: me@qu-xiao.com
-      link: me@qu-xiao.com
+      link: mailto:me@qu-xiao.com
     - icon: fa-globe
       text: www.qu-xiao.com
       link: http://www.qu-xiao.com
@@ -33,11 +33,11 @@ resume:
     - Teaching, tutoring, presenting, and researching
   experience:
     - title: Student Mentor (Part-time)
-      duration: 10/2019 - Now
+      duration: 10/2019 - present
       company: LinkDoctor
       description: "Supporting Chinese undergraduate students in their research activities and applications to study in the UK."
     - title: "Research Assistant (Part-time)"
-      duration: 01/2019 – 08/2020
+      duration: 01/2019 – present
       company: UCL IoE, London
       description: "Assisting with data collection and analysis, literature review, and writing up for the project ‘Using technology to support teachers in working out what works for children with autism in the classroom’. Data collected for the pilot study include 5,460 coded instances of adult-child communication inside classrooms over five months, 30-min video-recording data inside the classroom, and 30-min focus group interview data. The scope of the literature review covers areas such as learning analytics, educational data mining, educational technology, and autism education communication intervention strategies."
     - title: Teaching Fellow (Part-time)
@@ -48,14 +48,14 @@ resume:
       duration: 11/2018 - present
       company: IYUNO Media Group
       description: "English to Mandarin Chinese subtitle translation for online media streaming platforms such as Amazon videos and Netflix. Developed time-management skills and attention to details."
-    - title: Library Assistant (Part-time)
-      duration: 10/2013 - 06/2014
-      company: UCL IoE, London
-      description: "Tutored MA students on the module ‘Education and Development in Asia’. Responsibilities include giving written feedback on student coursework, face-to-face tutorials, and marking final essays. Developed effective coaching and mentoring skills to support students in the programme."
     - title: Education Consultant
       duration: 07/2014 - 06/2015
       company: UK Thames Education Ltd., London
       description: "Designed and project managed international educational programmes in the UK for the Chinese market, such as summer/winter camps, teacher training programmes, international student exchange programmes, and joint programmes between the UK and Chinese institutions. Successfully led projects such as an exclusive partnership with West End Stage Summer School and a teacher training partnership with South Bank University. Worked with various UK university international offices negotiating partnerships and recruiting international students. Demonstrated leadership, management, and team-work experience in educational settings."
+    - title: Library Assistant (Part-time)
+      duration: 10/2013 - 06/2014
+      company: UCL IoE, London
+      description: "Tutored MA students on the module ‘Education and Development in Asia’. Responsibilities include giving written feedback on student coursework, face-to-face tutorials, and marking final essays. Developed effective coaching and mentoring skills to support students in the programme."
     - title: Volunteer – Social Work
       duration: 10/2012 – 07/2013
       company: Corbenic Camphill Community, Trochry
