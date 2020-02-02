@@ -1,0 +1,125 @@
+title: Résumé
+resume:
+  name: Dr Xiao Qu
+  jobtitle: Inclusive education, special needs education, education policy, sociology of education, disability studies, education technology, social equality, children’s rights, and critical realism.
+  contact:
+    - icon: fa-envelope
+      text: me@qu-xiao.com
+      link: me@qu-xiao.com
+    - icon: fa-globe
+      text: www.qu-xiao.com
+      link: http://www.qu-xiao.com
+  education:
+    - university: PhD in Education (Pass with no corrections)
+      duration: 2015 - 2019
+      location: Institute of Education, University College London, UK
+      major: "Thesis title: Inclusive Education in Chinese Primary Schools – A Critical Realist Analysis"
+    - university: MPhil in Education (Pass)
+      duration: 2013 - 2014
+      location: University of Cambridge, UK
+      major: "Dissertation title: Understanding Special School Provision for Children with Severe Learning Difficulties in Relation to Inclusive Education in England from Special School Educators’ Perspectives"
+    - university: MA in Translation Studies (Merit)
+      duration: 2011 - 2012
+      location: Durham University, UK
+      major: "Modules taken: Specialised translation (English-Chinese), translation technology, translation theory, translation ethics"
+    - university: BA in English (Distinction)
+      duration: 2008 - 2011
+      location: Qingdao University, China
+      major: "Modules taken: Linguistics, English literature, translation studies"
+  skills:
+    - Full computer literacy
+    - Project management and administration
+    - Data collection and analysis
+    - Teaching, tutoring, presenting, and researching
+  experience:
+    - title: Student Mentor (Part-time)
+      duration: 10/2019 - Now
+      company: LinkDoctor
+      description: "Supporting Chinese undergraduate students in their research activities and applications to study in the UK."
+    - title: "Research Assistant (Part-time)"
+      duration: 01/2019 – 08/2020
+      company: UCL IoE, London
+      description: "Assisting with data collection and analysis, literature review, and writing up for the project ‘Using technology to support teachers in working out what works for children with autism in the classroom’. Data collected for the pilot study include 5,460 coded instances of adult-child communication inside classrooms over five months, 30-min video-recording data inside the classroom, and 30-min focus group interview data. The scope of the literature review covers areas such as learning analytics, educational data mining, educational technology, and autism education communication intervention strategies."
+    - title: Teaching Fellow (Part-time)
+      duration: 04/2018 – 07/2019
+      company: UCL IoE, London
+      description: "Tutored MA students on the module ‘Education and Development in Asia’. Responsibilities include giving written feedback on student coursework, face-to-face tutorials, and marking final essays. Developed effective coaching and mentoring skills to support students in the programme."
+    - title: Freelance Translator (Part-time)
+      duration: 11/2018 - present
+      company: IYUNO Media Group
+      description: "English to Mandarin Chinese subtitle translation for online media streaming platforms such as Amazon videos and Netflix. Developed time-management skills and attention to details."
+    - title: Library Assistant (Part-time)
+      duration: 10/2013 - 06/2014
+      company: UCL IoE, London
+      description: "Tutored MA students on the module ‘Education and Development in Asia’. Responsibilities include giving written feedback on student coursework, face-to-face tutorials, and marking final essays. Developed effective coaching and mentoring skills to support students in the programme."
+    - title: Education Consultant
+      duration: 07/2014 - 06/2015
+      company: UK Thames Education Ltd., London
+      description: "Designed and project managed international educational programmes in the UK for the Chinese market, such as summer/winter camps, teacher training programmes, international student exchange programmes, and joint programmes between the UK and Chinese institutions. Successfully led projects such as an exclusive partnership with West End Stage Summer School and a teacher training partnership with South Bank University. Worked with various UK university international offices negotiating partnerships and recruiting international students. Demonstrated leadership, management, and team-work experience in educational settings."
+    - title: Volunteer – Social Work
+      duration: 10/2012 – 07/2013
+      company: Corbenic Camphill Community, Trochry
+      description: "Looked after adults with severe learning difficulties in a residential community. Assisted with house management. Helped to organise daily workshops within the community, such as craft, farm, and garden."
+  publications:
+    - title: A critical realist model of inclusive education for children with special educational needs and/or disabilities.
+      journal: International Journal of Inclusive Education
+      date: 2020 (Forthcoming)
+      author: Qu, X.
+    - title: Chinese teachers’ views of educational exclusion of children with disabilities in relation to equality.
+      journal: International Journal of Inclusive Education
+      date: 2019 (In press)
+      author: Qu, X.
+    - title: Rethinking norms and collectivism in China’s inclusive education – Moving teachers’ understanding beyond integration.
+      journal: Journal of Research in Special Educational Needs, 19 (4), 353-361.
+      date: 2019
+      author: Qu, X.
+    - title: "Critical review: Making sense of special schools from sociological perspectives."
+      journal: Cambridge Open-Review Educational Research e-Journal, 1 (2), 17-36.
+      date: 2015
+      author: Qu, X.
+    - title: Understanding special school provision for children with severe learning
+      journal: Cambridge Open-Review Educational Research e-Journal, 1 (2), 78-98.
+      date: 2015
+      author: Qu, X.
+  translations:
+    - title: "Chapter: Human resource management ideas from Quotations of Zeng Guofan and Hu Linyi in military management"
+      author: Hu, S.
+      date: 2018
+      book: Chinese Wisdom and Modern Management, pp. 178-197
+      publisher: Cambridge Scholars Publishing
+    - title: "Chapter: Traditional Chinese culture and the model for ethical business management"
+      author: Hu, N. & Liu, S.
+      date: 2018
+      book: Chinese Wisdom and Modern Management, pp. 125-157
+      publisher: Cambridge Scholars Publishing
+    - title: "Chapter: Annals of the five emperors and human resource management"
+      author: Liu, T. & Luo, Y. H.
+      date: 2018
+      book: Chinese Wisdom and Modern Management, pp. 158-177
+      publisher: Cambridge Scholars Publishing
+  conferences:
+    - title: Hong Kong University Postgraduate Research Conference
+      location: Hong Kong University
+      date: 05/2019
+    - title: British Educational Research Association Annual Conference
+      location: University of Leeds
+      date: 09/2016
+    - title: Chinese Educational Research Association Annual Conference
+      location: UCL IoE
+      date: 06/2016
+    - title: Critical realism day course
+      location: UCL IoE
+      date: 06/2019
+    - title: Children’s rights in practice day course
+      location: UCL IoE
+      date: 03/2018
+    - title: Inclusive education for children with disabilities
+      location: Qingdao University
+      date: 03/2016
+  languages:
+    - name: English
+      proficiency: Fluent
+    - name: Mandarin Chinese
+      proficiency: Native
+    - name: German
+      proficiency: Basics
