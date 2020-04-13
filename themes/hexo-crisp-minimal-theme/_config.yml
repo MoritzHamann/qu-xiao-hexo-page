@@ -32,12 +32,12 @@ resume:
     - Data collection and analysis
     - Teaching, tutoring, presenting, and researching
   experience:
-    - title: Student Mentor (Part-time)
-      duration: 10/2019 - present
-      company: LinkDoctor
-      description: "Supporting Chinese undergraduate students in their research activities and applications to study in the UK."
+    - title: "Research Fellow (Part-time)"
+      duration: 02/2020 – present
+      company: UCL IoE, London
+      description: "Responsible for school engagement, data collection and analysis, literature review and writing up for the project 'Enhancing decision making for children with Autism using Machine Learning'. (temporarly suspended due to the Covid-19 pandemic)"
     - title: "Research Assistant (Part-time)"
-      duration: 01/2019 – present
+      duration: 01/2019 – 01/2020
       company: UCL IoE, London
       description: "Assisting with data collection and analysis, literature review, and writing up for the project ‘Using technology to support teachers in working out what works for children with autism in the classroom’. Data collected for the pilot study include 5,460 coded instances of adult-child communication inside classrooms over five months, 30-min video-recording data inside the classroom, and 30-min focus group interview data. The scope of the literature review covers areas such as learning analytics, educational data mining, educational technology, and autism education communication intervention strategies."
     - title: Teaching Fellow (Part-time)

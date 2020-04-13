@@ -53,11 +53,25 @@ header {
 
 .name-wrapper {
   padding-top: 1rem;
-  padding-right: 2rem;
 }
 
 .title {
   font-size: 2.2rem;
+}
+
+#portrait {
+  width: 200px;
+  float: left;
+  margin-top: 0.8rem;
+  margin-right: 0.8rem;
+}
+@media screen and (max-width: 48rem) {
+  #portrait {
+    max-width: 100%;
+    float: none;
+    padding: 2rem;
+    margin: 0;
+  }
 }
 
 .sub-title {
@@ -66,6 +80,7 @@ header {
 
 .communication {
   width: 100%;
+  margin-bottom: 2rem;
 }
 
 .contact {
@@ -90,7 +105,6 @@ header {
   .name-wrapper {
     text-align: center;
     padding-bottom: 2rem;
-    padding-right: 2rem;
   }
 
   .contact {
@@ -110,9 +124,6 @@ header {
   font-weight: bold;
 }
 
-.reference-item {
-}
-  
 section {
   display: flex;
   padding-top: 2.4rem;

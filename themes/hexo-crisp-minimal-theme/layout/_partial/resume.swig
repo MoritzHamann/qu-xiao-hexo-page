@@ -4,26 +4,30 @@
       <div id="fullname" class="title">
         {{ theme.resume.name }}
       </div>
+
+      <img id="portrait" src="{{config.root}}XiaoQu.png" alt="Dr Xiao Qu" />
+
+      <div id="communication" class="communication">
+        <div id="contact" class="contact">
+        {% for item in theme.resume.contact %}
+          <div class="contact-item">
+          {% if item.link %}
+            <a href="{{ item.link }}">
+            {% endif %}
+              <i class="fa {{ item.icon }} aria-hidden="true></i> {{ item.text }}
+            {% if item.link %}
+            </a>
+            {% endif %}
+          </div>
+        {% endfor %}
+        </div>
+      </div>
+
       <div id="jobtitle" class="sub-title">
         {{ theme.resume.jobtitle }}
       </div>
     </div>
 
-    <div id="communication" class="communication">
-      <div id="contact" class="contact">
-      {% for item in theme.resume.contact %}
-        <div class="contact-item">
-        {% if item.link %}
-          <a href="{{ item.link }}">
-          {% endif %}
-            <i class="fa {{ item.icon }} aria-hidden="true></i> {{ item.text }}
-          {% if item.link %}
-          </a>
-          {% endif %}
-        </div>
-      {% endfor %}
-      </div>
-    </div>
   </header>
 
   <section id="education">
