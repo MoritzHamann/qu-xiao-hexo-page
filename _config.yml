@@ -99,3 +99,5 @@ theme: hexo-crisp-minimal-theme
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+google_analytics: G-5YLHR8TJ79
