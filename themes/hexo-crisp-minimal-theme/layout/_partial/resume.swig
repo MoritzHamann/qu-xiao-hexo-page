@@ -66,7 +66,11 @@
           {{ exp.duration }} | {{ exp.company }}
         </div>
         <div class="block-content">
-          {{ exp.description }}
+          <ul>
+          {% for des in exp.description %}
+            <li>{{ des }}</li>
+          {% endfor %}
+          </ul>
         </div>
       </div>
       {% endfor %}
@@ -127,6 +131,24 @@
     </div>
   </section>
 
+  <section id="academic_services">
+    <div class="section-title">
+      Academic Services
+    </div>
+    <div class="section-content">
+      {% for service in theme.resume.academic_services %}
+      <div class="block">
+        <div class="block-title-small">
+          {{ service.title }}
+        </div>
+        <div class="block-subtitle">
+          {{ service.date }} | {{ service.journal }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
   <section id="languages">
     <div class="section-title">
       Languages
@@ -141,17 +163,6 @@
           {{ language.proficiency }}
         </div>
       </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <section id="skills">
-    <div class="section-title">
-      Skills
-    </div>
-    <div class="section-content">
-      {% for skill in theme.resume.skills %}
-        <div><b>- {{ skill }}</b></div>
       {% endfor %}
     </div>
   </section>

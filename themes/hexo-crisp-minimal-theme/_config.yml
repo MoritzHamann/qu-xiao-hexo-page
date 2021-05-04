@@ -1,7 +1,7 @@
 title: Résumé
 resume:
   name: Dr Xiao Qu
-  jobtitle: Inclusive education, special needs education, education policy, sociology of education, disability studies, education technology, social equality, children’s rights, and critical realism.
+  jobtitle: Inclusive education, special needs education, education policy, sociology of education, education technology, social equality, children’s rights, and critical realism.
   contact:
     - icon: fa-envelope
       text: me@qu-xiao.com
@@ -26,44 +26,75 @@ resume:
       duration: 2008 - 2011
       location: Qingdao University, China
       major: "Modules taken: Linguistics, English literature, translation studies"
-  skills:
-    - Full computer literacy
-    - Project management and administration
-    - Data collection and analysis
-    - Teaching, tutoring, presenting, and researching
+  academic_services:
+    - title: Review Editor
+      journal: Frontiers in Education - Special Educational Needs
+      date: 04/2021 - present
+    - title: Reviewer
+      journal: British Journal of Educational Studies
+      date: 10/2020 - present
   experience:
+    - title: "Academic Coordinator"
+      duration: 03/2020 – present
+      company: InterGreat Education Group , London
+      description:
+        - Supporting international students in achieving their study abroad goals by conducting online student consultation sessions, providing academic advice, making tutor recommendations and scheduling online lessons, monitoring the quality of teaching and students’ learning progress, managing student records and accounts, and maintaining tutor and student relationships.
+        - Leading the curriculum design and project development and implementation for the EPQ (Extended Project Qualification) and LAMDA (London Academy of Music and Dramatic Art) qualifications learning programmes.
+        - Developed greater communication and people management skills, as well as organisation, leadership and time-management competencies.
     - title: "Research Fellow (Part-time)"
-      duration: 02/2020 – present
+      duration: 02/2020 – 03/2020 (paused due to Covid-19)
       company: UCL IoE, London
-      description: "Responsible for school engagement, data collection and analysis, literature review and writing up for the project 'Enhancing decision making for children with Autism using Machine Learning'. (temporarly suspended due to the Covid-19 pandemic)"
+      description:
+        - Enhancing teacher decision making for children with autism using machine learning (https://www.ucl.ac.uk/ioe/departments-and-centres/departments/learning-and-leadership/enhancing-teacher-decision-making-children-autism-using-machine-learning)
+        - Responsible for school engagement, research design, data collection, and literature review.
+        - This is the second cycle of the research project that has started in Jan 2019 as detailed below.
     - title: "Research Assistant (Part-time)"
       duration: 01/2019 – 01/2020
       company: UCL IoE, London
-      description: "Assisting with data collection and analysis, literature review, and writing up for the project ‘Using technology to support teachers in working out what works for children with autism in the classroom’. Data collected for the pilot study include 5,460 coded instances of adult-child communication inside classrooms over five months, 30-min video-recording data inside the classroom, and 30-min focus group interview data. The scope of the literature review covers areas such as learning analytics, educational data mining, educational technology, and autism education communication intervention strategies."
+      description:
+        - Designed the coding protocol and an Excel recording grid for classroom observations and developed the interview schedule for the focus group.
+        - Liaised with the participating special school to arrange and conduct data collection in three classrooms with three teachers and seven children in total.
+        - Collected 5,460 data points of coded teacher-student interactions over 20 full-day classroom observations; 40 minutes of an audio-recorded focus group interview with the three teachers; and 30 minutes of classroom video recording for conducting the inter-rater reliability test.
+        - Reviewed the literature in the areas of educational data mining, learning analytics, autism education and communication intervention strategies, and education technology.
+        - Drafted the literature review and data collection sections of the research paper which has now been submitted for publication.
     - title: Teaching Fellow (Part-time)
       duration: 04/2018 – 07/2019
       company: UCL IoE, London
-      description: "Tutored MA students on the module ‘Education and Development in Asia’. Responsibilities include giving written feedback on student coursework, face-to-face tutorials, and marking final essays. Developed effective coaching and mentoring skills to support students in the programme."
-    - title: Freelance Translator (Part-time)
-      duration: 11/2018 - present
-      company: IYUNO Media Group
-      description: "English to Mandarin Chinese subtitle translation for online media streaming platforms such as Amazon videos and Netflix. Developed time-management skills and attention to details."
+      description:
+        - Tutored three cohorts of MA students on the module ‘Education and Development in Asia’.
+        - Responsibilities include giving written feedback on student coursework, conducting face-to-face tutorials, and marking final essays.
+        - Developed effective coaching and mentoring skills to support students in the programme.
     - title: Education Consultant
       duration: 07/2014 - 06/2015
       company: UK Thames Education Ltd., London
-      description: "Designed and project managed international educational programmes in the UK for the Chinese market, such as summer/winter camps, teacher training programmes, international student exchange programmes, and joint programmes between the UK and Chinese institutions. Successfully led projects such as an exclusive partnership with West End Stage Summer School and a teacher training partnership with South Bank University. Worked with various UK university international offices negotiating partnerships and recruiting international students. Demonstrated leadership, management, and team-work experience in educational settings."
-    - title: Library Assistant (Part-time)
-      duration: 10/2013 - 06/2014
-      company: UCL IoE, London
-      description: "Tutored MA students on the module ‘Education and Development in Asia’. Responsibilities include giving written feedback on student coursework, face-to-face tutorials, and marking final essays. Developed effective coaching and mentoring skills to support students in the programme."
+      description:
+        - Planned, developed, and managed international educational programmes in the UK for the Chinese market, such as summer/winter camps, teacher training programmes, international student exchange programmes, and joint degree programmes.
+        - Successfully led and managed projects such as an exclusive partnership with West End Stage Summer School and a teacher training partnership with South Bank University.
+        - Worked with various UK university international offices negotiating partnerships and recruiting international students.
+        - Demonstrated leadership, project management and coordination, communication, and team-work competencies in educational settings.
     - title: Volunteer – Social Work
       duration: 10/2012 – 07/2013
       company: Corbenic Camphill Community, Trochry
-      description: "Looked after adults with severe learning difficulties in a residential community. Assisted with house management. Helped to organise daily workshops within the community, such as craft, farm, and garden."
+      description:
+        - Looked after adults with severe learning difficulties in a residential community.
+        - Assisted with house management and helped to organise daily workshops within the community, such as craft, farm, and garden.
+        - Developed a deeper understanding of issues regarding social justice, equality, and rights concerning people with disabilities.
   publications:
+    - title: Structural barriers to inclusive education in China.
+      journal: Journal of Educational Change
+      date: 2021 (Forthcoming)
+      author: Qu, X.
+    - title: An artificial intelligence approach for selecting effective teacher communication strategies in autism education.
+      journal: NPJ Science of Learning
+      date: 2021 (Forthcoming)
+      author: Lampos, V., Mintz, J., &amp; Qu, X.
+    - title: The role of teacher agency in promoting inclusion in a Chinese primary school.
+      journal: International Journal of Disability, Development, and Education
+      date: 2021 (In Press)
+      author: Qu, X.
     - title: A critical realist model of inclusive education for children with special educational needs and/or disabilities.
       journal: International Journal of Inclusive Education
-      date: 2020 (Forthcoming)
+      date: 2020 (In Press)
       author: Qu, X.
     - title: Chinese teachers’ views of educational exclusion of children with disabilities in relation to equality.
       journal: International Journal of Inclusive Education
