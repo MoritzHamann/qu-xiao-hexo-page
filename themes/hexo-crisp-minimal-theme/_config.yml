@@ -4,11 +4,13 @@ resume:
   jobtitle: Inclusive education, special needs education, education policy, sociology of education, education technology, social equality, children’s rights, and critical realism.
   contact:
     - icon: fa-envelope
-      text: me@qu-xiao.com
-      link: mailto:me@qu-xiao.com
+      text: xiao.qu@uws.ac.uk
+      link: mailto:xiao.qu@uws.ac.uk
     - icon: fa-globe
       text: www.qu-xiao.com
       link: http://www.qu-xiao.com
+
+
   education:
     - university: PhD in Education (Pass with no corrections)
       duration: 2015 - 2019
@@ -17,92 +19,166 @@ resume:
     - university: MPhil in Education (Pass)
       duration: 2013 - 2014
       location: University of Cambridge, UK
-      major: "Dissertation title: Understanding Special School Provision for Children with Severe Learning Difficulties in Relation to Inclusive Education in England from Special School Educators’ Perspectives"
-    - university: MA in Translation Studies (Merit)
+      major: |
+        Dissertation title: Understanding Special School Provision for Children with Severe Learning Difficulties
+        in Relation to Inclusive Education in England from Special School Educators’ Perspectives"
+    - university: MA in Translation Studies (Merit with the Duram Award)
       duration: 2011 - 2012
       location: Durham University, UK
-      major: "Modules taken: Specialised translation (English-Chinese), translation technology, translation theory, translation ethics"
+      major: "Certified linguist (English & Mandarin) by Chartered Institute of Linguists Educational Trust"
     - university: BA in English (Distinction)
       duration: 2008 - 2011
       location: Qingdao University, China
-      major: "Modules taken: Linguistics, English literature, translation studies"
+      major: "completed the four-year programme in three years"
+
+
   academic_services:
-    - title: Review Editor
-      journal: Frontiers in Education - Special Educational Needs
-      date: 04/2021 - present
-    - title: Reviewer
-      journal: British Journal of Educational Studies
-      date: 10/2020 - present
+    - title: School Assessment Boards and Boards of Examiners - Chair
+      journal: UWS PGDE
+      date: 01/2023 - present
+    - title: School of Education and Social Sciences EDI Committee - Member
+      journal: UWS
+      date: 09/2022 - present
+    - title: Race Equality Working Group	- school representative
+      journal: UWS
+      date: 05/2023 - present
+
+
   experience:
-    - title: "Lecturer in Education"
-      duration: 08/2021 – present
+    - title: "Senior lecturer in Education| Programme Leader - MEd Educational Studies (FT)"
+      duration: 11/2022 – present
       company: University of the West of Scotland, London Campus
       description:
+        - |
+          Strategic Programme Leadership: Lead the degree course of MEd Educational Studies which has three intakes a year;
+          spearheaded the programme redesign and validation on the London campus and managed transition & exit strategies
+          for the previous version of the programme, ensuring a smooth and successful implementation;
+          worked collaboratively with various departments across the university to enhance student satisfaction and success.
+        - |
+          Management Excellence: Line-managed the MEd staff including a team of six Lecturers (London campus)
+          and four Associate Lecturers (remote), demonstrating effective leadership and fostering a collaborative working environment.
+        - |
+          Teaching Excellence: Designed and delivered the module "Research and Pedagogy";
+          coordinated and delivered the module "Masters Dissertation" and "Educational Research" providing students
+          with a robust foundation in educational studies and research methodologies.
+        - |
+          Supervision and Examination: Demonstrated commitment to academic development through the supervision of
+          Postgraduate Taught (PGT) and Postgraduate Research (PGR) students, as well as serving as a PhD assessor and internal examiner,
+          contributing to the academic growth and success of students.
+        - |
+          Research Productivity: Exhibited a commitment to academic research by consistently generating high-quality research output,
+          contributing to the advancement of knowledge within the field of educational studies.
+
+    - title: "Lecturer in Education| Deputy Programme Leader-MEd Education Studies (FT)"
+      duration: 08/2021 – 11/2022
+      company: University of the West of Scotland, London Campus
+      description:
+        - |
+          Supported three active cohorts of more than 100 international students on the MEd Education Studies programme
+          as their personal tutor and deputy programme leader, provided pastoral care with a high level of
+          satisfaction - nominated by students as Lecturer of the Year in the UWS Big Awards in March 2022. 
+        - Teaching includes “Inclusive Practice”, “Educational Research”, and “Participation and Children’s rights”. 
+        - PGT & PGR supervision
+        - Generating high quality research output
+
     - title: "Academic Coordinator"
       duration: 03/2020 – 07/2021
       company: InterGreat Education Group , London
       description:
-        - Supporting international students in achieving their study abroad goals by conducting online student consultation sessions, providing academic advice, making tutor recommendations and scheduling online lessons, monitoring the quality of teaching and students’ learning progress, managing student records and accounts, and maintaining tutor and student relationships.
-        - Facilitating the curriculum design and project development and implementation for the EPQ (Extended Project Qualification) and LAMDA (London Academy of Music and Dramatic Art) qualifications learning programmes.
-        - Developed greater communication and people management skills, as well as organisation, leadership and time-management competencies.
+        - |
+          Supported international students to achieve their study abroad goals;
+          created action plans on CampusMate, an online tutoring platform within the company,
+          and made tutor recommendations and booked tutoring classes; monitored and assessed the quality of teaching,
+          and managed customer relationships and user accounts.
+          Demonstrated strong organisation and communication skills. 
+
     - title: "Research Fellow (Part-time)"
-      duration: 02/2020 – 03/2020 (paused due to Covid-19)
+      duration: 02/2020 (paused due to Covid-19)
       company: UCL IoE, London
       description:
-        - Enhancing teacher decision making for children with autism using machine learning (https://www.ucl.ac.uk/ioe/departments-and-centres/departments/learning-and-leadership/enhancing-teacher-decision-making-children-autism-using-machine-learning)
-        - Responsible for school engagement, research design, data collection, and literature review.
-        - This is the second cycle of the research project that has started in Jan 2019 as detailed below.
+        - |
+          Project: Enhancing teacher decision making for children with autism using
+          machine learning (https://www.ucl.ac.uk/ioe/departments-and-centres/departments/learning-and-leadership/enhancing-teacher-decision-making-children-autism-using-machine-learning)
+        - Responsible for school engagement, research design, data collection, and literature review. 
+        - This is the second cycle of the research project that has started in Jan 2019 as detailed below. 
+
     - title: "Research Assistant (Part-time)"
       duration: 01/2019 – 01/2020
       company: UCL IoE, London
       description:
-        - Designed the coding protocol and an Excel recording grid for classroom observations and developed the interview schedule for the focus group.
-        - Liaised with the participating special school to arrange and conduct data collection in three classrooms with three teachers and seven children in total.
-        - Collected 5,460 data points of coded teacher-student interactions over 20 full-day classroom observations; 40 minutes of an audio-recorded focus group interview with the three teachers; and 30 minutes of classroom video recording for conducting the inter-rater reliability test.
-        - Reviewed the literature in the areas of educational data mining, learning analytics, autism education and communication intervention strategies, and education technology.
-        - Drafted the literature review and data collection sections of the research paper which has now been submitted for publication.
+        - |
+          Designed the coding protocol and an Excel recording grid for classroom
+          observations and developed the interview schedule for the focus group. 
+        - |
+          Liaised with the participating special school to arrange and conduct data collection
+          in three classrooms with three teachers and seven children in total.
+        - |
+          Reviewed the literature in the areas of educational data mining, learning analytics,
+          autism education and communication intervention strategies, and education technology.
+        - Drafted the literature review and data collection sections of the research
+          paper which has now been published in Nature - Science of Learning.
+
     - title: Teaching Fellow (Part-time)
       duration: 04/2018 – 07/2019
       company: UCL IoE, London
       description:
-        - Tutored three cohorts of MA students on the module ‘Education and Development in Asia’.
-        - Responsibilities include giving written feedback on student coursework, conducting face-to-face tutorials, and marking final essays.
-        - Developed effective coaching and mentoring skills to support students in the programme.
+        - Tutored three cohorts of MA students on the module ‘Education and Development in Asia’. 
+        - Supported student success by giving constructive written feedback on student coursework,
+          conducting face-to-face tutorials, and marking final essays.
+
     - title: Education Consultant
       duration: 07/2014 - 06/2015
       company: UK Thames Education Ltd., London
       description:
-        - Planned, developed, and managed international educational programmes in the UK for the Chinese market, such as summer/winter camps, teacher training programmes, international student exchange programmes, and joint degree programmes.
-        - Successfully led and managed projects such as an exclusive partnership with West End Stage Summer School and a teacher training partnership with South Bank University.
-        - Worked with various UK university international offices negotiating partnerships and recruiting international students.
-        - Demonstrated leadership, project management and coordination, communication, and team-work competencies in educational settings.
+        - Planned, developed, and managed international educational programmes in the UK
+          for the Chinese market, such as summer/winter camps, teacher training programmes,
+          international student exchange programmes, and joint degree programmes. 
+        - Successfully led projects such as an exclusive partnership with West End Stage
+          Summer School and a teacher training partnership with South Bank University. 
+        - Worked with various UK university international offices negotiating partnerships
+          and recruiting international students. Demonstrated leadership, management,
+          and teamwork experiences in educational settings. 
+
     - title: Volunteer – Social Work
       duration: 10/2012 – 07/2013
       company: Corbenic Camphill Community, Trochry
       description:
         - Looked after adults with severe learning difficulties in a residential community.
-        - Assisted with house management and helped to organise daily workshops within the community, such as craft, farm, and garden.
-        - Developed a deeper understanding of issues regarding social justice, equality, and rights concerning people with disabilities.
+          Assisted with house management. Helped to organise daily workshops within the community,
+          such as craft, farm, and garden. Demonstrated organisation, teamwork and communication skills.           
+
   publications:
-    - title: An artificial intelligence approach for selecting effective teacher communication strategies in autism education.
-      journal: Nature (npj) Science of Learning
-      date: 2021 (Accepted)
-      author: Lampos, V., Mintz, J. &amp; Qu, X.
-    - title: Structural barriers to inclusive education in China.
-      journal: Journal of Educational Change
-      date: 2021
-      author: Qu, X.
-    - title: The role of teacher agency in promoting inclusion in a Chinese primary school.
-      journal: International Journal of Disability, Development, and Education
-      date: 2021
+    - title: Making sense of policy development of inclusive education for children with disabilities in China
+      journal: International Journal of Chinese Education, https://doi.org/10.1177/2212585X241234332
+      date: 2024
+      author: Qu, X
+    - title: UDL for inclusive higher education – what makes group work effective for diverse international students in UK?
+      journal: International Journal of Educational Research, 123, 102277
+      date: 2024
+      author: Qu, X. & Cross, B.
+    - title: Confucianism and human rights - Exploring the philosophical base for inclusive education for children with disabilities in China
+      journal: "Disability & Society, DOI: 10.1080/09687599.2022.2143324"
+      date: 2022
       author: Qu, X.
     - title: A critical realist model of inclusive education for children with special educational needs and/or disabilities.
-      journal: International Journal of Inclusive Education
-      date: 2020
+      journal: International Journal of Inclusive Education, 26 (10), 1008-1022
+      date: 2022
+      author: Qu, X.
+    - title: Structural barriers to inclusive education in China.
+      journal: Journal of Educational Change, 23, 253-276
+      date: 2022
       author: Qu, X.
     - title: Chinese teachers’ views of educational exclusion of children with disabilities in relation to equality.
-      journal: International Journal of Inclusive Education
-      date: 2019
+      journal: International Journal of Inclusive Education, 26, (1), 27-40
+      date: 2022
+      author: Qu, X.
+    - title: An artificial intelligence approach for selecting effective teacher communication strategies in autism education.
+      journal: Nature (npj) Science of Learning, 6, Article number 25
+      date: 2021
+      author: Lampos, V., Mintz, J. &amp; Qu, X.
+    - title: The role of teacher agency in promoting inclusion in a Chinese primary school.
+      journal: International Journal of Disability, Development, and Education, 68 (6), 758-772
+      date: 2021
       author: Qu, X.
     - title: Rethinking norms and collectivism in China’s inclusive education – Moving teachers’ understanding beyond integration.
       journal: Journal of Research in Special Educational Needs, 19 (4), 353-361.
@@ -116,6 +192,7 @@ resume:
       journal: Cambridge Open-Review Educational Research e-Journal, 1 (2), 78-98.
       date: 2015
       author: Qu, X.
+
   translations:
     - title: "Chapter: Human resource management ideas from Quotations of Zeng Guofan and Hu Linyi in military management"
       author: Hu, S.
@@ -132,6 +209,11 @@ resume:
       date: 2018
       book: Chinese Wisdom and Modern Management, pp. 158-177
       publisher: Cambridge Scholars Publishing
+
+  qualifications:
+    - FHEA Fellowship
+    - Postgraduate Certificate in Academic Practices, UWS
+
   conferences:
     - title: Hong Kong University Postgraduate Research Conference
       location: Hong Kong University
@@ -151,6 +233,7 @@ resume:
     - title: Inclusive education for children with disabilities
       location: Qingdao University
       date: 03/2016
+
   languages:
     - name: English
       proficiency: Fluent

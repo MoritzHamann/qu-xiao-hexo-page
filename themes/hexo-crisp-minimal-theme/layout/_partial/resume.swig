@@ -5,7 +5,7 @@
         {{ theme.resume.name }}
       </div>
 
-      <img id="portrait" src="{{config.root}}XiaoQu.png" alt="Dr Xiao Qu" />
+      <img id="portrait" src="{{config.root}}XiaoQu.jpg" alt="Dr Xiao Qu" />
 
       <div id="communication" class="communication">
         <div id="contact" class="contact">
@@ -113,21 +113,16 @@
     </div>
   </section>
 
-  <section id="conferences">
+  <section id="qualifications">
     <div class="section-title">
-      Conferences presentations & Guest talks
+      Academic Services
     </div>
-    <div class="section-content section-flex">
-      {% for conference in theme.resume.conferences %}
-      <div class="block block-square">
-        <div class="block-title-small">
-          {{ conference.title }}
-        </div>
-        <div class="block-subtitle">
-          {{ conference.location }} | {{ conference.date }}
-        </div>
-      </div>
+    <div class="section-content">
+      <ul>
+      {% for qualification in theme.resume.qualifications %}
+          <li class="block-title-small">{{ qualification }}</li>
       {% endfor %}
+      </ul>
     </div>
   </section>
 
@@ -143,24 +138,6 @@
         </div>
         <div class="block-subtitle">
           {{ service.date }} | {{ service.journal }}
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <section id="languages">
-    <div class="section-title">
-      Languages
-    </div>
-    <div class="section-content section-flex">
-      {% for language in theme.resume.languages %}
-      <div class="block block-square">
-        <div class="block-title">
-          {{ language.name }}
-        </div>
-        <div class="block-content">
-          {{ language.proficiency }}
         </div>
       </div>
       {% endfor %}
