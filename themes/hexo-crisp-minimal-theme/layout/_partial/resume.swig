@@ -115,7 +115,7 @@
 
   <section id="qualifications">
     <div class="section-title">
-      Academic Services
+      Professional Qualifications
     </div>
     <div class="section-content">
       <ul>
